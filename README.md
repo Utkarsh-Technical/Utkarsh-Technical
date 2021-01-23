@@ -10,20 +10,20 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 - 🤟 I'm a **MERN Stack Website Developer**
 - 🤓 Currently I'm working more on my **DSA Skills**
 - 📫 Let's Connect: 
- <a href="https://github.com/sakshi-choudhary" target="_blank">
-<img src=https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif alt=github height="100px" style="margin-bottom: 5px;" />
+ <a href="https://github.com/Utkarsh-Technical?tab=repositories" target="_blank">
+<img src=https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif alt=github height="50px" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/sakshi__ch" target="_blank">
-<img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
+<a href="https://wa.me/917305368127" target="_blank">
+<img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="50px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
-<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="100px" style="margin-bottom: 5px;" />
+<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="80px" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/sakshi._.choudhary" target="_blank">
-<img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="100px" style="margin-bottom: 5px;" />
+<a href="mailto:1998utkarshshukla@gmail.com" target="_blank">
+<img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="50px" style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@choudharysakshi023" target="_blank">
-<img src=https://i.pinimg.com/originals/f2/fd/65/f2fd65f0d7b942e6b3b5aee5c89a2e89.gif alt=medium height="100px" style="margin-bottom: 5px;" />
+<a href="https://medium.com/@1998utkarshshukla" target="_blank">
+<img src=https://cdn.dribbble.com/users/810172/screenshots/2541224/motion-dribble-medium-1.gif alt=medium height="80px" style="margin-bottom: 5px;" />
 </a>  
 
 <br/>
