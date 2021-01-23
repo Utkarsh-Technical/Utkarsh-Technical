@@ -10,24 +10,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 - 🤟 I'm a **MERN Stack Website Developer**
 - 🤓 Currently I'm working more on my **DSA Skills**
 - 📫 Let's Connect: 
- <a href="https://github.com/Utkarsh-Technical?tab=repositories" target="_blank">
-<img src=https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif alt=github height="100px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://wa.me/917305368127" target="_blank">
-<img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
-<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="110px" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:1998utkarshshukla@gmail.com" target="_blank">
-<img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="100px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/darklordlucifer98/" target="_blank">
-<img src=https://i.pinimg.com/originals/83/02/66/8302668e65c27ce762fe49fdd0e96e0a.gif alt=Instagram height="100px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@1998utkarshshukla" target="_blank">
-<img src=https://cdn.dribbble.com/users/810172/screenshots/2541224/motion-dribble-medium-1.gif alt=medium height="110px" style="margin-bottom: 5px;" />
-</a>  
+   
 
 <br/>
 
@@ -44,7 +27,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="ReactJs" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" alt="NodeJs" height="30" />  
-
+<br>
 <img style="margin: 10px" src="https://www.marketplace.org/wp-content/uploads/2019/07/ama2.png?resize=740%2C204" alt="Amazon" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 
@@ -53,6 +36,27 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <img style="margin: 10px" src="https://thumbs.dreamstime.com/b/ml-machine-learning-concept-keywords-people-icons-flat-vector-illustration-isolated-white-ml-machine-learning-concept-196588062.jpg" alt="Machine Learning" height="50" />  
 </div>  
 
+## Let's Connect: <img src = "https://static.skaip.org/img/emoticons/180x180/f6fcff/handshake.gif" width="25px">
+<div align="center">  
+    <a href="https://github.com/Utkarsh-Technical?tab=repositories" target="_blank">
+    <img src=https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif alt=github height="100px" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://wa.me/917305368127" target="_blank">
+    <img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
+    <img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="100px" style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:1998utkarshshukla@gmail.com" target="_blank">
+    <img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="100px" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.instagram.com/darklordlucifer98/" target="_blank">
+    <img src=https://i.pinimg.com/originals/83/02/66/8302668e65c27ce762fe49fdd0e96e0a.gif alt=Instagram height="100px" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://medium.com/@1998utkarshshukla" target="_blank">
+    <img src=https://cdn.dribbble.com/users/810172/screenshots/2541224/motion-dribble-medium-1.gif alt=medium height="100px" style="margin-bottom: 5px;" />
+    </a> 
+</div>
 <br/>  
 
 <hr>
