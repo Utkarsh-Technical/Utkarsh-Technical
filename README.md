@@ -22,8 +22,8 @@
 <a href="https://twitter.com/sakshi__ch" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/sakshichoudhary23" target="_blank">
+<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/sakshi._.choudhary" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
