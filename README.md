@@ -1,6 +1,6 @@
-<a href ="#" ><img align = "right" alt="Resume" height="30px" src ="resume.gif"></a>
 
-### < Hello World />  <img src="Hi.gif" width="32px">
+
+### < Hello World />  <img src="Hi.gif" width="32px"> <a href ="#" ><img align = "right" alt="Resume" height="30px" src ="resume.png"></a>
 
 <hr>
 
