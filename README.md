@@ -44,8 +44,6 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
     <a href="https://wa.me/917305368127" target="_blank">
     <img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
-    <img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="150px" style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:1998utkarshshukla@gmail.com" target="_blank">
     <img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="120px" style="margin-bottom: 5px;" />
@@ -55,7 +53,9 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
     </a>
     <a href="https://medium.com/@1998utkarshshukla" target="_blank">
     <img src=https://cdn.dribbble.com/users/810172/screenshots/2541224/motion-dribble-medium-1.gif alt=medium height="130px" style="margin-bottom: 5px;" />
-    </a> 
+    </a><br>
+    <a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
+    <img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="200px" style="margin-bottom: 5px;" /> 
 </div>
 <br/>  
 
