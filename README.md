@@ -17,7 +17,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
-<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="1100px" style="margin-bottom: 5px;" />
+<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="110px" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:1998utkarshshukla@gmail.com" target="_blank">
 <img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="100px" style="margin-bottom: 5px;" />
@@ -38,31 +38,21 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://img.favpng.com/19/25/8  java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP.jpg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="" alt="NodeJs" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" alt="NodeJs" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="" alt="Amazon" height="50" />  
+<img style="margin: 10px" src="https://www.marketplace.org/wp-content/uploads/2019/07/ama2.png?resize=740%2C204" alt="Amazon" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
-<img style="margin: 10px" src="" alt="Data Science" height="50" />  
-<img style="margin: 10px" src="" alt="Machine Learning" height="50" />  
+<img style="margin: 10px" src="https://tcilitchandigarh.com/images/data-science.png" alt="Data Science" height="50" />  
+<img style="margin: 10px" src="https://thumbs.dreamstime.com/b/ml-machine-learning-concept-keywords-people-icons-flat-vector-illustration-isolated-white-ml-machine-learning-concept-196588062.jpg" alt="Machine Learning" height="50" />  
 </div>  
 
 <br/>  
 
 <hr>
 
-<a href="https://medium.com/data-science-community-srm/a-look-into-the-hooks-a79c9b1d75aa"><i><img src="https://img.icons8.com/color/48/000000/medium.png" width="2%"/> Check out my Recent Blog on ReactJS **"A Look Into The Hooks"** </i> </a>
-
-<hr>
-
-
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-choudhary&theme=dark&hide_langs_below=4&layout=compact'/>  
-![Jokes Card](https://readme-jokes.vercel.app/api) 
-<img alt="GIF" height="200px" src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/my-memoji.jpg" />
-<br>
 <i> Show some ❤️ ! ⭐️  some of my repositories!</i>
