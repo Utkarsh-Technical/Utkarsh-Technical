@@ -1,35 +1,29 @@
-### < Hello World />  <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="32px">
-
+### < Hello World />  <img src="https://lh5.googleusercontent.com/proxy/eCn-5kmgr0i4Q6RMCrLpRIuo7ijCjjo8tb9dr5f4TqAxloquiucf9bDYq2czXE65g686m5VT8t7HmKQPRJbaNEbJChe4dwfwpg=s0-d" width="32px">
 <hr>
-<!--
-**sakshi-choudhary/sakshi-choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
+An enthusiastic and self-motivated Computer Science Graduate who has an ability to work hard to complete any task, a desire and passion to do everything to the highest standards possible, a desire to work as part of a team to complete difficult tasks, a willingness to learn & develop continuously, understanding the importance of and being open to change, a positive attitude to everything and a loyal, trustworthy and honest approach to work. 
 
 
-
-- :school: I'm [Sakshi](https://sakshichoudhary.me/),  currently a 2nd Year CSE student at <a href="hhttps://www.srmuniversity.ac.in"> <b>@SRMIST</b> </a>
 - ❤️ **Development**
-- 🤟 I'm a **MERN Stack Web Developer**
+- 🤟 I'm a **MERN Stack Website Developer**
 - 🤓 Currently I'm working more on my **DSA Skills**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
 - 📫 Let's Connect: 
  <a href="https://github.com/sakshi-choudhary" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif alt=github height="100px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/sakshi__ch" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://media3.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif alt=WhatsApp height="100px" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sakshichoudhary23" target="_blank">
-<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="200px" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/utkarsh-shukla-377193173/" target="_blank">
+<img src=https://i.pinimg.com/originals/d2/85/01/d2850178d64d8f9f49a7652c6522c768.gif alt=linkedin height="100px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/sakshi._.choudhary" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
+<img src=https://i.pinimg.com/originals/18/20/7c/18207c9a2ebb2a05db42923c49c25d68.gif alt=mail height="100px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@choudharysakshi023" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://i.pinimg.com/originals/f2/fd/65/f2fd65f0d7b942e6b3b5aee5c89a2e89.gif alt=medium height="100px" style="margin-bottom: 5px;" />
 </a>  
 
 <br/>
@@ -37,8 +31,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
