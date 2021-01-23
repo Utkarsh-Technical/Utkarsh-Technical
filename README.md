@@ -1,4 +1,5 @@
 ### < Hello World />  <img src="Hi.gif" width="32px">
+<a href ="#" ><img align = "right" alt="Resume" height="30px" src ="resume.gif"></a>
 <hr>
 
 An enthusiastic and self-motivated Computer Science Graduate who has an ability to work hard to complete any task, a desire and passion to do everything to the highest standards possible, a desire to work as part of a team to complete difficult tasks, a willingness to learn & develop continuously, understanding the importance of and being open to change, a positive attitude to everything and a loyal, trustworthy and honest approach to work. 
@@ -17,6 +18,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 
 ## Languages and Tools  
 <div align="center">  
+<br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
