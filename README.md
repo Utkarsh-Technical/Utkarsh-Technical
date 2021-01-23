@@ -1,5 +1,7 @@
-### < Hello World />  <img src="Hi.gif" width="32px">
 <a href ="#" ><img align = "right" alt="Resume" height="30px" src ="resume.gif"></a>
+
+### < Hello World />  <img src="Hi.gif" width="32px">
+
 <hr>
 
 An enthusiastic and self-motivated Computer Science Graduate who has an ability to work hard to complete any task, a desire and passion to do everything to the highest standards possible, a desire to work as part of a team to complete difficult tasks, a willingness to learn & develop continuously, understanding the importance of and being open to change, a positive attitude to everything and a loyal, trustworthy and honest approach to work. 
