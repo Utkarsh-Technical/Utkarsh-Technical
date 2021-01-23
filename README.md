@@ -36,6 +36,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <img style="margin: 10px" src="https://thumbs.dreamstime.com/b/ml-machine-learning-concept-keywords-people-icons-flat-vector-illustration-isolated-white-ml-machine-learning-concept-196588062.jpg" alt="Machine Learning" height="50" />  
 </div>  
 <br>
+
 ## Let's Connect: <img src = "https://static.skaip.org/img/emoticons/180x180/f6fcff/handshake.gif" width="25px">
 <div align="center">  
     <a href="https://github.com/Utkarsh-Technical?tab=repositories" target="_blank">
@@ -52,11 +53,7 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
     </a>
     <a href="https://www.instagram.com/darklordlucifer98/" target="_blank">
     <img src=https://i.pinimg.com/originals/83/02/66/8302668e65c27ce762fe49fdd0e96e0a.gif alt=Instagram height="120px" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://medium.com/@1998utkarshshukla" target="_blank">
-    <img src=https://cdn.dribbble.com/users/810172/screenshots/2541224/motion-dribble-medium-1.gif alt=medium height="120px" style="margin-bottom: 5px;" />
-    </a>
-    
+    </a>    
 </div>
 <br/>  
 
