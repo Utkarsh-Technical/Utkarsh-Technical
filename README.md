@@ -1,21 +1,78 @@
+## Bonjour! <img src="Hi.gif" width="29px">, I'm [Utkarsh Shukla!]
 
-<img align = "right" alt="Resume" height="50px" src ="resume.png">
-<img src="https://media.giphy.com/media/Sc576bJiJDvOeq4EXt/giphy.gif" width="800px"> <a href ="https://drive.google.com/file/d/19-W1nfDjKIMoMWzfmtyWiFUJpXKJ0x33/view?usp=sharing" ></a>
+### About Me 🚀<br>
+An enthusiastic and self-motivated Computer Science Graduate who has an ability to work hard to complete any task, a desire and passion to do everything to the highest standards possible, a desire to work as part of a team to complete difficult tasks, a willingness to learn & develop continuously, understanding the importance of and being open to change, a positive attitude to everything and a loyal, trustworthy and honest approach to work.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh-Technical&show_icons=true&locale=en&layout=compact" alt="Utkarsh Shukla" />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+👇 Hit in your console/terminal to connect with me.
+
+```bash
+npx anish
+```
+
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>React</b> </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Express</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>MySQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Flutter</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Android Studio</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Wordpress</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Serverless</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/serverless.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Google cloud</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Node.js</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Firebase</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>AWS</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3>Language Tools</h3>
-<hr style="width:50%">
-<p align="center"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a </p>
-<br><i> Show some ❤️ ! ⭐️  some of my repositories!</i>
+
+
+![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utkarsh-technical&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-technical&layout=compact)
+<br />
