@@ -3,11 +3,6 @@
 ### About Me 🚀<br>
 An enthusiastic and self-motivated Computer Science Graduate who has an ability to work hard to complete any task, a desire and passion to do everything to the highest standards possible, a desire to work as part of a team to complete difficult tasks, a willingness to learn & develop continuously, understanding the importance of and being open to change, a positive attitude to everything and a loyal, trustworthy and honest approach to work.
 
-👇 Hit in your console/terminal to connect with me.
-
-```bash
-npx anish
-```
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
