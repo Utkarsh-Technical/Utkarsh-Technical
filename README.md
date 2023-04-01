@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Utkarsh Shukla</h1>
 <h3 align="center">Seeking a challenging role as a Full Stack Web Developer,where I can leverage my expertise in coding, software architecture and team collaboration to deliver highquality solutions that meet business objectives.</h3>
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate, JavaScript, NodeJs, ReactJs**
+- 🌱 I’m currently learning **Java, Spring, Hibernate**
 
 - 📫 How to reach me **utkarshshukla1098@gmail.com**
 
